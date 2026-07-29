@@ -1,4 +1,4 @@
-import SeatBooking from "./components/Seat-Booking";
+import SeatBooking from "./components/seat-booking";
 
 function App() {
   return (
